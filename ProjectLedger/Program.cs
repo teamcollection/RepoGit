@@ -10,7 +10,7 @@ namespace ProjectLedger
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("The sum of two numbers 5 and 6 is: "+ Sum(5, 6));
+            Console.WriteLine("The sum of two numbers 5 and 6 is: "+ Sum(15, 16));
 
             System.Threading.Thread.Sleep(1000);
 
