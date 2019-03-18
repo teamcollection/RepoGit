@@ -1,0 +1,7 @@
+C:\Users\MT2\Solutions\SeleniumTests\ProjectLedger\ProjectLedger\bin\Debug\ProjectLedger.exe.config
+C:\Users\MT2\Solutions\SeleniumTests\ProjectLedger\ProjectLedger\bin\Debug\ProjectLedger.exe
+C:\Users\MT2\Solutions\SeleniumTests\ProjectLedger\ProjectLedger\bin\Debug\ProjectLedger.pdb
+C:\Users\MT2\Solutions\SeleniumTests\ProjectLedger\ProjectLedger\obj\Debug\ProjectLedger.csprojAssemblyReference.cache
+C:\Users\MT2\Solutions\SeleniumTests\ProjectLedger\ProjectLedger\obj\Debug\ProjectLedger.csproj.CoreCompileInputs.cache
+C:\Users\MT2\Solutions\SeleniumTests\ProjectLedger\ProjectLedger\obj\Debug\ProjectLedger.exe
+C:\Users\MT2\Solutions\SeleniumTests\ProjectLedger\ProjectLedger\obj\Debug\ProjectLedger.pdb
